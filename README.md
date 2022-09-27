@@ -1,8 +1,6 @@
 # Metaphysical
 <h1 align="center">Selamlar, ben Atakan.</h1>
 <h3 align="center">Türkiye'de açık kaynak yazılım geliştirme ve işletim sistemleri yönetimiyle uğraşıyorum.</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
